@@ -13,5 +13,10 @@ I am looking for friends > <
 
 ### WakaTime
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 

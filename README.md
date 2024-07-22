@@ -10,3 +10,8 @@ I am looking for friends > <
 [![telegram](https://img.shields.io/badge/-HDHNLGX-8bd7fc.svg?logo=telegram&style=for-the-badge)](https://telegram.me/HDHNLGX)
 [![osu](https://img.shields.io/badge/-UC9HUTM3-ffadce.svg?logo=osu&style=for-the-badge)](https://osu.ppy.sh/users/36358832)
 [![keybase](https://img.shields.io/badge/-LRUTXV7X-add4ff.svg?logo=keybase&style=for-the-badge)](https://keybase.io/lrutxv7x)
+
+### WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+

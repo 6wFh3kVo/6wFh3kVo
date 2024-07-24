@@ -15,9 +15,10 @@ I am looking for friends > <
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                18 mins         ███████████████████████▒░   92.84 %
-DockerIgnore file   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-TypeScript          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+YAML                18 mins         █████████████████████▓░░░   86.32 %
+Vue.js              1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+DockerIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TypeScript          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,5 +15,14 @@ I am looking for friends > <
 
 ### WakaTime
 <!--START_SECTION:waka-->
+
+```txt
+Lua                 55 mins         ██████████▒░░░░░░░░░░░░░░   41.38 %
+Bash                24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+YAML                18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Text                18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Markdown            10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+```
+
 <!--END_SECTION:waka-->
 

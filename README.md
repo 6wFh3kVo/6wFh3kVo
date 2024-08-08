@@ -17,11 +17,11 @@ I am looking for friends > <
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   56 mins         █████████████░░░░░░░░░░░░   51.51 %
-Vue.js       39 mins         █████████░░░░░░░░░░░░░░░░   36.16 %
-JavaScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Vue.js       2 hrs 10 mins   ██████████████████░░░░░░░   71.64 %
+TypeScript   36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
